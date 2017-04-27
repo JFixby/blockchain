@@ -1,5 +1,5 @@
-#BlockChain March 2017
-##Blockchain a Developers Guide
+# BlockChain March 2017
+## Blockchain a Developers Guide
 - Jack works for a startup in Cambridge
 - First got involved because hes an economic student with a hobby of programming
 - But he realised how archaic finance and financial training is
@@ -15,11 +15,11 @@
 - There is a question about whether the industry should challenge an existing democratically managed or legally binded process of trust when applying blockchain
 - Blockchain is ultimately just a database with some cool features that allow synchronous use and less worries about trust
 
-##Etherium vs Hyperledger 
+## Etherium vs Hyperledger 
 - Eherium is free but EVERYTHING is public
 - Hyperledger accomodates the industries that will need private 
 
-##Building your Blockchain
+## Building your Blockchain
 - All data is stored...think about how little information you can store that is critical to 
 
 E.g. When there is an image, hold a cryptographic hash of the image, 64bit, so that the image can be confirmed to be the same without needing to take up all the space an image would
