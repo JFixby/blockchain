@@ -1,10 +1,10 @@
 # Blockchain Jan
 ## Hosts
-- Intelligent Ways
+- [Intelligent Ways](https://twitter.com/intelligentways)
 - Work with startup
 
 ## Intro
-- Presented by [@Tom_geraghty](http://twitter.com/users/tom_geraghty)
+- Presented by [@Tom_geraghty](https://twitter.com/tom_geraghty)
 - "Transactions rely on trust"
 	- but then digital payment providers came to be
 - 7 basic design principles to a digital payment
@@ -44,8 +44,8 @@
 	- Circular economy
 - Logical heirachy to protect speed of process
 
-# Everledger
-- Started in April 2015
+# [Everledger](https://twitter.com/everledgerio)
+- Started in April 2015 by Leanne Kemp
 - MD has history in payment and supplychain process
 - Diamond industry has been asking for problem solving in the payment and supplychain area for years
 - Diamond industry has financial centers in London and NY, and mines in Sub-Saharah, India etc
