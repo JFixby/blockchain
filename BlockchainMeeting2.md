@@ -19,7 +19,7 @@
 
 - TEE: secure area of the main processor in a smart phone, sensitive date is isolated
 
-##Energy Use Cases for Blockchain:
+## Energy Use Cases for Blockchain:
 
 -
   - P2P Energy EV
