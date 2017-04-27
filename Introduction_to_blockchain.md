@@ -1,9 +1,9 @@
-#Blockchain Jan
-##Hosts
+# Blockchain Jan
+## Hosts
 - Intelligent Ways
 - Work with startup
 
-##Intro
+## Intro
 - Presented by [@Tom_geraghty](twitter.com/users/tom_geraghty)
 - "Transactions rely on trust"
 	- but then digital payment providers came to be
