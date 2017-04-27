@@ -4,7 +4,7 @@
 - Work with startup
 
 ## Intro
-- Presented by [@Tom_geraghty](twitter.com/users/tom_geraghty)
+- Presented by [@Tom_geraghty](http://twitter.com/users/tom_geraghty)
 - "Transactions rely on trust"
 	- but then digital payment providers came to be
 - 7 basic design principles to a digital payment
