@@ -3,6 +3,8 @@ A repository for notes from [Blockchain Nottingham](https://www.meetup.com/Block
 
 - This is github so it's going to run out of memory pretty fast...but it can still hold smart contracts, applications, and links to Bluemix experiments etc.
 
+I am now officially [certified by IBM](https://github.com/alxstuart/blockchain/blob/master/AlexStuartBlockChainCertifcate.pdf) for completing 'Blockchain For Developers' on [DeveloperWorks](https://developer.ibm.com/courses/all-courses/blockchain-for-developers/).
+
 ## Meetup Notes
 1. [An Introduction to Blockchain](https://github.com/alxstuart/blockchain/blob/master/Introduction_to_blockchain.md) Jan 2017
   *  "Our co-organiser Tom Geraghty will be giving you all an overview of the Blockchain, its origins, applications and ultimately its future impact on the World. We then will be joined by Leanne Kemp - CEO of Everledger - via Skype - [@everledgerio](https://twitter.com/@everledgerio). Leanne will be sharing with us details of her own Blockchain journey. Everledger tracks and protects Diamonds and other valuable assets in the Blockchain, creating a permanent digital ledger for asset certification and transaction history. "
