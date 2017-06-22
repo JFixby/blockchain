@@ -57,4 +57,4 @@ Hosted by (and run by) Salina and Paul
 ## Technical details & Questions
 * The app is built on cordova, due to single dev and multiple plaforms
 * Although running on etherium, zonafide could easily transfter across to other platforms for it's "Together Token" technology e.g. Hyperledger
-* The model 
+* The model has a variety of revenue sources including training
